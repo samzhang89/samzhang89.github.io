@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxnanbnsnfns00001101111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxnanbnsnfns00001101111" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
     <layout name="npnxnanbsnfns00001101111" font="Open Sans" controllayout="npnxnanbsnfns00001101111" colorscheme="pxnanbnsnfns00001101111" string_table="pxnanbnsnfns00001101111" />
     <layout name="pxabnsnfns00001101111" font="Open Sans" controllayout="pxabnsnfns00001101111" colorscheme="pxnanbnsnfns00001101111" string_table="pxnanbnsnfns00001101111" />
@@ -44,7 +44,6 @@
               <option name="height" value="135" />
             </options>
           </option>
-          <option name="logoAltText" />
         </options>
       </optiongroup>
       <optiongroup name="menuoptions">
@@ -1155,151 +1154,61 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxnanbnsnfns00001101111">
-      <string id="acc_active">活动</string>
-      <string id="acc_closed_captions">隐藏式字幕。按空格键可打开和关闭字幕。</string>
-      <string id="acc_definition">定义</string>
-      <string id="acc_enter_fullscreen">进入全屏模式</string>
-      <string id="acc_exit_fullscreen">退出全屏模式</string>
-      <string id="acc_finish">完成</string>
-      <string id="acc_locked">锁定的</string>
-      <string id="acc_modern_video_captions">视频字幕</string>
-      <string id="acc_modern_video_fullscreen">全屏视频</string>
-      <string id="acc_modern_video_mute">使视频静音</string>
-      <string id="acc_modern_video_pause">暂停视频</string>
-      <string id="acc_modern_video_pip">画中画</string>
-      <string id="acc_modern_video_play">播放视频</string>
-      <string id="acc_modern_video_playback_speed">回放速度</string>
-      <string id="acc_modern_video_settings">视频设置</string>
-      <string id="acc_modern_video_volume">视频音量</string>
-      <string id="acc_next">下一步</string>
-      <string id="acc_pause">暂停</string>
+      <string id="transcript">笔记</string>
       <string id="acc_play">播放</string>
-      <string id="acc_previous">上一页</string>
-      <string id="acc_replay">重播</string>
-      <string id="acc_resources">资源</string>
-      <string id="acc_search_input">搜索</string>
-      <string id="acc_skipnavigation">返回顶部</string>
-      <string id="acc_slide_progress">幻灯片进度</string>
-      <string id="acc_submit">提交</string>
-      <string id="acc_submitall">提交全部</string>
-      <string id="acc_three_image_count_of_total_item_visited">已访问%count%项，共%total%项</string>
-      <string id="acc_three_image_count_of_total_items_visited">已访问%count%项，共%total%项</string>
-      <string id="acc_three_image_step_count_of_total">第%count%步，共%total%步</string>
-      <string id="acc_visited">已访问</string>
-      <string id="acc_volume">量</string>
-      <string id="accessible_text">可访问的文本</string>
-      <string id="acctext_shortcut">切换可访问的文本</string>
-      <string id="action">操作</string>
-      <string id="alt_key">转换</string>
-      <string id="bio">简历</string>
-      <string id="check_include">检查包括</string>
-      <string id="clear">清除并返回菜单</string>
-      <string id="close">关闭</string>
-      <string id="closed_captions">字幕</string>
-      <string id="closed_captions_tip">切换标题</string>
-      <string id="closedcaptions_shortcut">切换隐藏式字幕</string>
-      <string id="continue">继续</string>
-      <string id="continueresponsive">继续</string>
-      <string id="ctrl_key">控制</string>
-      <string id="definition">定义</string>
-      <string id="desktop_start">启动课程</string>
-      <string id="disabled_orientation">请旋转您的设备</string>
-      <string id="enable_keyboardshortcuts">启用键盘快捷键</string>
-      <string id="enter_key">确认</string>
-      <string id="exit">退出</string>
-      <string id="filter">过滤器</string>
-      <string id="finish">完成</string>
-      <string id="fullscreen_shortcut">切换全屏模式</string>
-      <string id="glossary">词汇表</string>
-      <string id="keyboardshortcuts">键盘快捷键</string>
-      <string id="keyboardshortcuts_lower">键盘快捷键</string>
-      <string id="mobile_start">启动课程</string>
-      <string id="modern_video_captions_label">字幕</string>
-      <string id="modern_video_captions_off">关闭</string>
-      <string id="modern_video_captions_on">开启</string>
-      <string id="modern_video_normal_speed">正常的</string>
-      <string id="modern_video_playback_settings">视频回放设置</string>
-      <string id="modern_video_playback_speed_title">回放速度</string>
-      <string id="modern_video_settings_close">关闭视频设置</string>
-      <string id="more_info">更多信息</string>
-      <string id="mute_shortcut">静音/取消静音</string>
-      <string id="mute_tip">静音</string>
-      <string id="next">下一页</string>
-      <string id="next_shortcut">下一张幻灯片</string>
-      <string id="next_slide_tip">下一张幻灯片</string>
       <string id="outline">目录</string>
-      <string id="pause_tip">暂停</string>
-      <string id="play_tip">播放</string>
-      <string id="playpause_shortcut">播放/暂停</string>
-      <string id="prev">上一页</string>
-      <string id="previous_shortcut">上一张幻灯片</string>
-      <string id="previous_slide_tip">上一张幻灯片</string>
-      <string id="progress_hour">小时</string>
-      <string id="progress_hours">小时数</string>
-      <string id="progress_minute">分钟</string>
-      <string id="progress_minutes">分钟数</string>
-      <string id="progress_second">秒</string>
-      <string id="progress_seconds">秒数</string>
-      <string id="question_list">问题清单</string>
-      <string id="replay_shortcut">重放幻灯片</string>
-      <string id="replay_tip">重放</string>
-      <string id="resources">软件</string>
-      <string id="restart">重新启动</string>
-      <string id="resume">继续</string>
-      <string id="search">搜索...</string>
+      <string id="glossary">词汇表</string>
+      <string id="filter">过滤器</string>
+      <string id="acc_previous">上一页</string>
       <string id="search_in">搜索：</string>
+      <string id="search">搜索...</string>
       <string id="search_results">搜索结果</string>
-      <string id="search_toggle">搜索</string>
+      <string id="submit">提交</string>
+      <string id="acc_submit">提交</string>
+      <string id="submitall">提交全部</string>
+      <string id="acc_submitall">提交全部</string>
+      <string id="acc_skipnavigation">返回顶部</string>
+      <string id="exit">退出</string>
+      <string id="finish">完成</string>
+      <string id="acc_finish">完成</string>
+      <string id="next">下一页</string>
+      <string id="acc_next">下一步</string>
+      <string id="acc_closed_captions">隐藏式字幕。按空格键可打开和关闭字幕。</string>
+      <string id="acc_pause">暂停</string>
+      <string id="acc_replay">重播</string>
+      <string id="resources">软件</string>
+      <string id="acc_resources">资源</string>
+      <string id="question_list">问题清单</string>
+      <string id="more_info">更多信息</string>
+      <string id="bio">简历</string>
+      <string id="restart">重新启动</string>
       <string id="send_an_email">发送电子邮件</string>
-      <string id="settings_tip">设置</string>
-      <string id="shift_key">换档</string>
+      <string id="close">关闭</string>
+      <string id="check_include">检查包括</string>
+      <string id="resume">继续</string>
+      <string id="acc_active">活动</string>
+      <string id="keyboardshortcuts">键盘快捷键</string>
+      <string id="action">操作</string>
       <string id="shortcut">快捷键</string>
       <string id="shortcuthelp">列表键盘快捷键</string>
-      <string id="sidebar_toggle">边栏转换键</string>
-      <string id="slide_text_chk">幻灯片文本</string>
-      <string id="spacebar_key">空格</string>
-      <string id="submit">提交</string>
-      <string id="submit_shortcut">提交幻灯片</string>
-      <string id="submit_tip">提交</string>
-      <string id="submitall">提交全部</string>
-      <string id="terms">条款</string>
-      <string id="three_image_audio">音频</string>
-      <string id="three_image_camera_down">摄像机移动到下边</string>
-      <string id="three_image_camera_left">摄像头移动到左边</string>
-      <string id="three_image_camera_right">摄像头移动到右边</string>
-      <string id="three_image_camera_up">摄像头移动到上边</string>
-      <string id="three_image_count_of_total">%total% / %count%</string>
-      <string id="three_image_count_of_total_visited">已访问%count% / %total%</string>
-      <string id="three_image_hotspot">热点</string>
-      <string id="three_image_instructions">使用w、a、s和d键在360度图像上移动。按tab键可以跳到互动标记和热点。</string>
-      <string id="three_image_interaction">360度图像互动</string>
-      <string id="three_image_interaction_free">自由探索模式</string>
-      <string id="three_image_interaction_guided">导览模式</string>
-      <string id="three_image_interaction_next">下一个</string>
-      <string id="three_image_interaction_prev">上一个</string>
-      <string id="three_image_interaction_step">步骤</string>
-      <string id="three_image_item">项目</string>
-      <string id="three_image_items">项目</string>
-      <string id="three_image_label">标签</string>
-      <string id="three_image_marker">标记</string>
-      <string id="three_image_of">的</string>
-      <string id="three_image_pause_audio">暂停音频</string>
-      <string id="three_image_pause_video">暂停视频</string>
-      <string id="three_image_play_audio">播放音频</string>
-      <string id="three_image_play_video">播放视频</string>
-      <string id="three_image_progress_audio">进度</string>
-      <string id="three_image_progress_video">进度</string>
-      <string id="three_image_tooltip">工具提示</string>
-      <string id="three_image_total_item">%total%项</string>
-      <string id="three_image_total_items">%total%项</string>
-      <string id="three_image_video">视频</string>
-      <string id="three_image_video_volume">视频音量</string>
-      <string id="three_image_visited">访问过的</string>
       <string id="togglezoom">切换缩放模式</string>
-      <string id="transcript">笔记</string>
+      <string id="sidebar_toggle">边栏转换键</string>
+      <string id="search_toggle">搜索</string>
+      <string id="acc_search_input">搜索</string>
+      <string id="desktop_start">启动课程</string>
+      <string id="mobile_start">启动课程</string>
+      <string id="clear">清除并返回菜单</string>
+      <string id="prev">上一页</string>
+      <string id="terms">条款</string>
+      <string id="definition">定义</string>
+      <string id="acc_definition">定义</string>
+      <string id="acc_volume">量</string>
+      <string id="continue">继续</string>
+      <string id="disabled_orientation">请旋转您的设备</string>
+      <string id="closed_captions">字幕</string>
+      <string id="continueresponsive">继续</string>
       <string id="transcript_chk">注释</string>
-      <string id="unmute_tip">取消静音</string>
-      <string id="zoom_to_fit">缩放以适合</string>
+      <string id="slide_text_chk">幻灯片文本</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1325,7 +1234,7 @@
     <outline>
       <links>
         <slidelink slideid="_player.5h7URTASJEk.6LMOPVKXkXu" displaytext="登陆界面" expand="false" type="slide" />
-        <slidelink slideid="_player.5XuRP7RmZHp" displaytext="机型选择" expand="false" type="slide">
+        <slidelink slideid="_player.5h7URTASJEk" displaytext="机型选择" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5h7URTASJEk.6HWi7VNhpwo" displaytext="歼-31" expand="false" type="slide" />
             <slidelink slideid="_player.5h7URTASJEk.5nvEBoRV8rH" displaytext="歼-20" expand="false" type="slide" />
@@ -1382,230 +1291,18 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;&amp;#20197;&amp;#19979;&amp;#26159;&amp;#19968;&amp;#20123;&amp;#26377;&amp;#29992;&amp;#30340;&amp;#38142;&amp;#25509;&amp;#21644;&amp;#25991;&amp;#26723;:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/勇芳_计算器.exe" image="story_content/5wthtHfGNqB.png" title="勇芳_计算器" />
+      <resource url="story_content/external_files/勇芳_计算器.exe" image="story_content/6QwX4xNSLC5.png" title="勇芳_计算器" />
     </resources>
   </resource_data>
   <transcript_data>
     <slidetranscripts>
-      <slidetranscript slideid="61hxLjtI4OR.6JyZoQ9VLWs" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="训练手册的内容呈现形式是否跟教材一样" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61hxLjtI4OR.680SfWr0sLP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="文字提供，是否是提供的是纸质教材扫描版的PDF？&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="电子交互手册内的图文，是否可以直接从纸质教材扫描版截图下来？还是需要把文字速记下来，重新在手册中排版？&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61hxLjtI4OR.6aYNwWHBSFh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" ListTypeFormat="Plain" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="课件是否都是PPT形式？&amp;#xA;"&gt;
-        &lt;Style FontFamily="微软雅黑" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" ListTypeFormat="Plain" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="课件的数量大概是多少页？&amp;#xA;"&gt;
-        &lt;Style FontFamily="微软雅黑" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" ListTypeFormat="Plain" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="课件是否需要美化？&amp;#xA;"&gt;
-        &lt;Style FontFamily="微软雅黑" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="此处功能是否只提供课件的浏览就可以，是否还需要其他的功能？"&gt;
-        &lt;Style FontFamily="微软雅黑" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61hxLjtI4OR.6rd11kNQhse" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="原理动画的内容是由教员出？&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="配音由教员来配音？&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="动画根据内容来定制制作&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="动画播放是点击以后，放大播放？" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61hxLjtI4OR.6KRCf2dposj" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="一共有多少三维模型需要建模？&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="都是什么样的三维模型？需要精细到什么程度？&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="已知没有机械三维爆炸拆解&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="已知右下角需要增加整机标注（讲到哪标注哪）&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="目前已知的需要三维建模的有飞机外壳及内部大概结构的透视、驾驶舱（需要精细模型）" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61hxLjtI4OR.5W6gLZ6gEEl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="视频的内容是由教员出？&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="配音由教员来配音？&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="视频素材来源，是否可以用网上的资料？或者网上的素材？&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="视频播放是点击以后，放大播放？" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61hxLjtI4OR.5lz00GUqj7W" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="交互设计主要确认呈现形式&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style LeadingMargin="13" FirstLineMargin="0"&gt;
-        &lt;ListStyle ListType="Bullet" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="是否还需要其他呈现形式" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="61hxLjtI4OR.6JyZoQ9VLWs" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;训练手册的内容呈现形式是否跟教材一样&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="61hxLjtI4OR.680SfWr0sLP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;文字提供，是否是提供的是纸质教材扫描版的PDF？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;电子交互手册内的图文，是否可以直接从纸质教材扫描版截图下来？还是需要把文字速记下来，重新在手册中排版？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="61hxLjtI4OR.6aYNwWHBSFh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='微软雅黑' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;课件是否都是PPT形式？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='微软雅黑' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;课件的数量大概是多少页？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='微软雅黑' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;课件是否需要美化？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='微软雅黑' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;此处功能是否只提供课件的浏览就可以，是否还需要其他的功能？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="61hxLjtI4OR.6rd11kNQhse" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;原理动画的内容是由教员出？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;配音由教员来配音？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;动画根据内容来定制制作&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;动画播放是点击以后，放大播放？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="61hxLjtI4OR.6KRCf2dposj" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;一共有多少三维模型需要建模？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;都是什么样的三维模型？需要精细到什么程度？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;已知没有机械三维爆炸拆解&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;已知右下角需要增加整机标注（讲到哪标注哪）&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;目前已知的需要三维建模的有飞机外壳及内部大概结构的透视、驾驶舱（需要精细模型）&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="61hxLjtI4OR.5W6gLZ6gEEl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;视频的内容是由教员出？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;配音由教员来配音？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;视频素材来源，是否可以用网上的资料？或者网上的素材？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;视频播放是点击以后，放大播放？&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="61hxLjtI4OR.5lz00GUqj7W" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;交互设计主要确认呈现形式&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144, 192, 240]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#ffffff'&gt;•&lt;/font&gt;&lt;font face='Open Sans' size='12.5pt' style="font-size:12.5pt;" color='#ffffff'&gt;是否还需要其他呈现形式&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
     </slidetranscripts>
   </transcript_data>
   <glossary_data />
